@@ -23,9 +23,8 @@ Shortcuts
 <li>shift+Down Arrow = Will click the continue button without answering the current page</li>
 </ul>
 
-QUOTAS
+QUOTAS<br/>
 This also adds some functionality to the quotas page to make it easier to edit cells by entering the new values and pressing tab to move to the next available cell.  Escape will cancel the current cell edit and either tab or enter will save the select cell edit.  
-<br/>
 <br/>
 Limitations:<br/>
 Currently limited to surveys in selfserve directories<br/>
